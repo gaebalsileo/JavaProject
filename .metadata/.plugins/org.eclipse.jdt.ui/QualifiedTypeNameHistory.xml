@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="China_menu.china_mainmenu"/>
+<fullyQualifiedTypeName name="bunsick_menu.bunsick_mainmenu"/>
+<fullyQualifiedTypeName name="Chicken_menu.chicken_mainmenu"/>
+<fullyQualifiedTypeName name="dessert_menu.dessert_mainmenu"/>
+<fullyQualifiedTypeName name="pizza_menu.pizza_mainmenu"/>
+<fullyQualifiedTypeName name="card_pay.card_choice"/>
+<fullyQualifiedTypeName name="account_pay.account_chocie"/>
+<fullyQualifiedTypeName name="money_pay.money_choice"/>
+<fullyQualifiedTypeName name="paycheck.pay_choice"/>
+<fullyQualifiedTypeName name="start.start"/>
+<fullyQualifiedTypeName name="Mianmenu.mainmenu"/>
+<fullyQualifiedTypeName name="java.awt.Toolkit"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.FileReader"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="begin.begin"/>
+<fullyQualifiedTypeName name="Login.loginscreen"/>
+<fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+</qualifiedTypeNameHistroy>
